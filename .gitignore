@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache / compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Model Files / Binaries
+*.task
+
+# Installer / helper scripts
+get-pip.py
+
+# OS-specific files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
